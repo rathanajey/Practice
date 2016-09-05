@@ -1,0 +1,10 @@
+class WaysToMakeAmount{
+	
+	public int ways(int[] denom, int amount){
+	
+	}
+
+	public static void main(String[] args){
+
+	}
+}
